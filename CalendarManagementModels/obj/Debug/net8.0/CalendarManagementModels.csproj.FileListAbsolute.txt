@@ -1,0 +1,11 @@
+C:\Users\Raul Alvarez\source\repos\CalendarManagement\CalendarManagementModels\bin\Debug\net8.0\CalendarManagementModels.deps.json
+C:\Users\Raul Alvarez\source\repos\CalendarManagement\CalendarManagementModels\bin\Debug\net8.0\CalendarManagementModels.dll
+C:\Users\Raul Alvarez\source\repos\CalendarManagement\CalendarManagementModels\bin\Debug\net8.0\CalendarManagementModels.pdb
+C:\Users\Raul Alvarez\source\repos\CalendarManagement\CalendarManagementModels\obj\Debug\net8.0\CalendarManagementModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raul Alvarez\source\repos\CalendarManagement\CalendarManagementModels\obj\Debug\net8.0\CalendarManagementModels.AssemblyInfoInputs.cache
+C:\Users\Raul Alvarez\source\repos\CalendarManagement\CalendarManagementModels\obj\Debug\net8.0\CalendarManagementModels.AssemblyInfo.cs
+C:\Users\Raul Alvarez\source\repos\CalendarManagement\CalendarManagementModels\obj\Debug\net8.0\CalendarManagementModels.csproj.CoreCompileInputs.cache
+C:\Users\Raul Alvarez\source\repos\CalendarManagement\CalendarManagementModels\obj\Debug\net8.0\CalendarManagementModels.dll
+C:\Users\Raul Alvarez\source\repos\CalendarManagement\CalendarManagementModels\obj\Debug\net8.0\refint\CalendarManagementModels.dll
+C:\Users\Raul Alvarez\source\repos\CalendarManagement\CalendarManagementModels\obj\Debug\net8.0\CalendarManagementModels.pdb
+C:\Users\Raul Alvarez\source\repos\CalendarManagement\CalendarManagementModels\obj\Debug\net8.0\ref\CalendarManagementModels.dll

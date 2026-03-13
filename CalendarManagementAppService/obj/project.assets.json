@@ -1,0 +1,124 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "CalendarManagementDataService/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "CalendarManagementModels": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CalendarManagementDataService.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CalendarManagementDataService.dll": {}
+        }
+      },
+      "CalendarManagementModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CalendarManagementModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CalendarManagementModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalendarManagementDataService/1.0.0": {
+      "type": "project",
+      "path": "../CalendarManagementDataService/CalendarManagementDataService.csproj",
+      "msbuildProject": "../CalendarManagementDataService/CalendarManagementDataService.csproj"
+    },
+    "CalendarManagementModels/1.0.0": {
+      "type": "project",
+      "path": "../CalendarManagementModels/CalendarManagementModels.csproj",
+      "msbuildProject": "../CalendarManagementModels/CalendarManagementModels.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "CalendarManagementDataService >= 1.0.0",
+      "CalendarManagementModels >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Raul Alvarez\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Raul Alvarez\\source\\repos\\CalendarManagement\\CalendarManagementAppService\\CalendarManagementAppService.csproj",
+      "projectName": "CalendarManagementAppService",
+      "projectPath": "C:\\Users\\Raul Alvarez\\source\\repos\\CalendarManagement\\CalendarManagementAppService\\CalendarManagementAppService.csproj",
+      "packagesPath": "C:\\Users\\Raul Alvarez\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Raul Alvarez\\source\\repos\\CalendarManagement\\CalendarManagementAppService\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Raul Alvarez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\Raul Alvarez\\source\\repos\\CalendarManagement\\CalendarManagementDataService\\CalendarManagementDataService.csproj": {
+              "projectPath": "C:\\Users\\Raul Alvarez\\source\\repos\\CalendarManagement\\CalendarManagementDataService\\CalendarManagementDataService.csproj"
+            },
+            "C:\\Users\\Raul Alvarez\\source\\repos\\CalendarManagement\\CalendarManagementModels\\CalendarManagementModels.csproj": {
+              "projectPath": "C:\\Users\\Raul Alvarez\\source\\repos\\CalendarManagement\\CalendarManagementModels\\CalendarManagementModels.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CalendarManagementAppService/1.0.0": {
+        "dependencies": {
+          "CalendarManagementDataService": "1.0.0",
+          "CalendarManagementModels": "1.0.0"
+        },
+        "runtime": {
+          "CalendarManagementAppService.dll": {}
+        }
+      },
+      "CalendarManagementDataService/1.0.0": {
+        "dependencies": {
+          "CalendarManagementModels": "1.0.0"
+        },
+        "runtime": {
+          "CalendarManagementDataService.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CalendarManagementModels/1.0.0": {
+        "runtime": {
+          "CalendarManagementModels.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalendarManagementAppService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CalendarManagementDataService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CalendarManagementModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
