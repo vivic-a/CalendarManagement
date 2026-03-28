@@ -4,7 +4,7 @@ using CalendarManagementModels;
 
 namespace CalendarManagementDataService
 {
-    public class EventDataService
+    public class CalendarMemoryData
     {
         private List<CalendarEvent> events = new List<CalendarEvent>();
 

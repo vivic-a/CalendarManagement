@@ -13,3 +13,19 @@ C:\Users\Raul Alvarez\source\repos\CalendarManagement\CalendarManagementDataServ
 C:\Users\Raul Alvarez\source\repos\CalendarManagement\CalendarManagementDataService\obj\Debug\net8.0\refint\CalendarManagementDataService.dll
 C:\Users\Raul Alvarez\source\repos\CalendarManagement\CalendarManagementDataService\obj\Debug\net8.0\CalendarManagementDataService.pdb
 C:\Users\Raul Alvarez\source\repos\CalendarManagement\CalendarManagementDataService\obj\Debug\net8.0\ref\CalendarManagementDataService.dll
+C:\Users\Admin\OneDrive\Documents\ZULUETA\CalendarManagement\CalendarManagementDataService\bin\Debug\net8.0\CalendarManagementDataService.deps.json
+C:\Users\Admin\OneDrive\Documents\ZULUETA\CalendarManagement\CalendarManagementDataService\bin\Debug\net8.0\CalendarManagementDataService.dll
+C:\Users\Admin\OneDrive\Documents\ZULUETA\CalendarManagement\CalendarManagementDataService\bin\Debug\net8.0\CalendarManagementDataService.pdb
+C:\Users\Admin\OneDrive\Documents\ZULUETA\CalendarManagement\CalendarManagementDataService\bin\Debug\net8.0\CalendarManagementModels.dll
+C:\Users\Admin\OneDrive\Documents\ZULUETA\CalendarManagement\CalendarManagementDataService\bin\Debug\net8.0\CalendarManagementModels.pdb
+C:\Users\Admin\OneDrive\Documents\ZULUETA\CalendarManagement\CalendarManagementDataService\obj\Debug\net8.0\CalendarManagementDataService.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Documents\ZULUETA\CalendarManagement\CalendarManagementDataService\obj\Debug\net8.0\CalendarManagementDataService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\ZULUETA\CalendarManagement\CalendarManagementDataService\obj\Debug\net8.0\CalendarManagementDataService.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\ZULUETA\CalendarManagement\CalendarManagementDataService\obj\Debug\net8.0\CalendarManagementDataService.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\ZULUETA\CalendarManagement\CalendarManagementDataService\obj\Debug\net8.0\CalendarManagementDataService.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\ZULUETA\CalendarManagement\CalendarManagementDataService\obj\Debug\net8.0\CalendarManagementDataService.sourcelink.json
+C:\Users\Admin\OneDrive\Documents\ZULUETA\CalendarManagement\CalendarManagementDataService\obj\Debug\net8.0\Calendar.0F483E5B.Up2Date
+C:\Users\Admin\OneDrive\Documents\ZULUETA\CalendarManagement\CalendarManagementDataService\obj\Debug\net8.0\CalendarManagementDataService.dll
+C:\Users\Admin\OneDrive\Documents\ZULUETA\CalendarManagement\CalendarManagementDataService\obj\Debug\net8.0\refint\CalendarManagementDataService.dll
+C:\Users\Admin\OneDrive\Documents\ZULUETA\CalendarManagement\CalendarManagementDataService\obj\Debug\net8.0\CalendarManagementDataService.pdb
+C:\Users\Admin\OneDrive\Documents\ZULUETA\CalendarManagement\CalendarManagementDataService\obj\Debug\net8.0\ref\CalendarManagementDataService.dll

@@ -20,6 +20,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="CalendarManagementAppService\CalendarManagementAppService.csproj" />
     <ProjectReference Include="CalendarManagementModels\CalendarManagementModels.csproj" />
   </ItemGroup>

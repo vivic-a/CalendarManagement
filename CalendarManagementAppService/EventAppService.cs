@@ -2,12 +2,14 @@
 using System.Collections.Generic;
 using CalendarManagementModels;
 using CalendarManagementDataService;
+using CalendarManagement;
 
 namespace CalendarManagementAppService
 {
     public class EventAppService
     {
-        EventDataService eventDataService = new EventDataService();
+        CalendarMemoryData eventDataService = new CalendarMemoryData();
+      CalendarDataService Calendardataservice = new CalendarDataService(new CalendarDBData());
 
         public bool AddEvent(string title, DateTime date)
         {
@@ -22,6 +24,7 @@ namespace CalendarManagementAppService
             };
 
             eventDataService.AddEvent(newEvent);
+            Calendardataservice.Add(newEvent);
 
             return true;
         }
@@ -29,6 +32,7 @@ namespace CalendarManagementAppService
         public List<CalendarEvent> GetEvents()
         {
             return eventDataService.GetEvents();
+           return Calendardataservice.GetCalendars();
         }
     }
 }

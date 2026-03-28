@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 namespace CalendarManagementModels
 {
     public class CalendarEvent

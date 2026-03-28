@@ -9,3 +9,15 @@ C:\Users\Raul Alvarez\source\repos\CalendarManagement\CalendarManagementModels\o
 C:\Users\Raul Alvarez\source\repos\CalendarManagement\CalendarManagementModels\obj\Debug\net8.0\refint\CalendarManagementModels.dll
 C:\Users\Raul Alvarez\source\repos\CalendarManagement\CalendarManagementModels\obj\Debug\net8.0\CalendarManagementModels.pdb
 C:\Users\Raul Alvarez\source\repos\CalendarManagement\CalendarManagementModels\obj\Debug\net8.0\ref\CalendarManagementModels.dll
+C:\Users\Admin\OneDrive\Documents\ZULUETA\CalendarManagement\CalendarManagementModels\bin\Debug\net8.0\CalendarManagementModels.deps.json
+C:\Users\Admin\OneDrive\Documents\ZULUETA\CalendarManagement\CalendarManagementModels\bin\Debug\net8.0\CalendarManagementModels.dll
+C:\Users\Admin\OneDrive\Documents\ZULUETA\CalendarManagement\CalendarManagementModels\bin\Debug\net8.0\CalendarManagementModels.pdb
+C:\Users\Admin\OneDrive\Documents\ZULUETA\CalendarManagement\CalendarManagementModels\obj\Debug\net8.0\CalendarManagementModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\ZULUETA\CalendarManagement\CalendarManagementModels\obj\Debug\net8.0\CalendarManagementModels.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\ZULUETA\CalendarManagement\CalendarManagementModels\obj\Debug\net8.0\CalendarManagementModels.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\ZULUETA\CalendarManagement\CalendarManagementModels\obj\Debug\net8.0\CalendarManagementModels.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\ZULUETA\CalendarManagement\CalendarManagementModels\obj\Debug\net8.0\CalendarManagementModels.sourcelink.json
+C:\Users\Admin\OneDrive\Documents\ZULUETA\CalendarManagement\CalendarManagementModels\obj\Debug\net8.0\CalendarManagementModels.dll
+C:\Users\Admin\OneDrive\Documents\ZULUETA\CalendarManagement\CalendarManagementModels\obj\Debug\net8.0\refint\CalendarManagementModels.dll
+C:\Users\Admin\OneDrive\Documents\ZULUETA\CalendarManagement\CalendarManagementModels\obj\Debug\net8.0\CalendarManagementModels.pdb
+C:\Users\Admin\OneDrive\Documents\ZULUETA\CalendarManagement\CalendarManagementModels\obj\Debug\net8.0\ref\CalendarManagementModels.dll
