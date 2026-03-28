@@ -9,8 +9,8 @@ namespace CalendarManagementAppService
     public class EventAppService
     {
         CalendarMemoryData eventDataService = new CalendarMemoryData();
-      CalendarDataService Calendardataservice = new CalendarDataService(new CalendarDBData());
-
+   //   CalendarDataService Calendardataservice = new CalendarDataService(new CalendarDBData());
+        CalendarJson j = new CalendarJson();
         public bool AddEvent(string title, DateTime date)
         {
             if (string.IsNullOrWhiteSpace(title))
@@ -24,7 +24,8 @@ namespace CalendarManagementAppService
             };
 
             eventDataService.AddEvent(newEvent);
-            Calendardataservice.Add(newEvent);
+          //  Calendardataservice.Add(newEvent);
+            j.Add(newEvent);
 
             return true;
         }
@@ -32,7 +33,8 @@ namespace CalendarManagementAppService
         public List<CalendarEvent> GetEvents()
         {
             return eventDataService.GetEvents();
-           return Calendardataservice.GetCalendars();
+       //    return Calendardataservice.GetCalendars();
+            return j.GetCalendars();
         }
     }
 }

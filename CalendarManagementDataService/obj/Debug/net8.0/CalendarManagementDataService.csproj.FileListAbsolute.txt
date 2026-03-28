@@ -29,3 +29,19 @@ C:\Users\Admin\OneDrive\Documents\ZULUETA\CalendarManagement\CalendarManagementD
 C:\Users\Admin\OneDrive\Documents\ZULUETA\CalendarManagement\CalendarManagementDataService\obj\Debug\net8.0\refint\CalendarManagementDataService.dll
 C:\Users\Admin\OneDrive\Documents\ZULUETA\CalendarManagement\CalendarManagementDataService\obj\Debug\net8.0\CalendarManagementDataService.pdb
 C:\Users\Admin\OneDrive\Documents\ZULUETA\CalendarManagement\CalendarManagementDataService\obj\Debug\net8.0\ref\CalendarManagementDataService.dll
+C:\Users\Raul Alvarez\OneDrive\Documents\GitHub\CalendarManagement\CalendarManagementDataService\bin\Debug\net8.0\CalendarManagementDataService.deps.json
+C:\Users\Raul Alvarez\OneDrive\Documents\GitHub\CalendarManagement\CalendarManagementDataService\bin\Debug\net8.0\CalendarManagementDataService.dll
+C:\Users\Raul Alvarez\OneDrive\Documents\GitHub\CalendarManagement\CalendarManagementDataService\bin\Debug\net8.0\CalendarManagementDataService.pdb
+C:\Users\Raul Alvarez\OneDrive\Documents\GitHub\CalendarManagement\CalendarManagementDataService\bin\Debug\net8.0\CalendarManagementModels.dll
+C:\Users\Raul Alvarez\OneDrive\Documents\GitHub\CalendarManagement\CalendarManagementDataService\bin\Debug\net8.0\CalendarManagementModels.pdb
+C:\Users\Raul Alvarez\OneDrive\Documents\GitHub\CalendarManagement\CalendarManagementDataService\obj\Debug\net8.0\CalendarManagementDataService.csproj.AssemblyReference.cache
+C:\Users\Raul Alvarez\OneDrive\Documents\GitHub\CalendarManagement\CalendarManagementDataService\obj\Debug\net8.0\CalendarManagementDataService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raul Alvarez\OneDrive\Documents\GitHub\CalendarManagement\CalendarManagementDataService\obj\Debug\net8.0\CalendarManagementDataService.AssemblyInfoInputs.cache
+C:\Users\Raul Alvarez\OneDrive\Documents\GitHub\CalendarManagement\CalendarManagementDataService\obj\Debug\net8.0\CalendarManagementDataService.AssemblyInfo.cs
+C:\Users\Raul Alvarez\OneDrive\Documents\GitHub\CalendarManagement\CalendarManagementDataService\obj\Debug\net8.0\CalendarManagementDataService.csproj.CoreCompileInputs.cache
+C:\Users\Raul Alvarez\OneDrive\Documents\GitHub\CalendarManagement\CalendarManagementDataService\obj\Debug\net8.0\CalendarManagementDataService.sourcelink.json
+C:\Users\Raul Alvarez\OneDrive\Documents\GitHub\CalendarManagement\CalendarManagementDataService\obj\Debug\net8.0\Calendar.0F483E5B.Up2Date
+C:\Users\Raul Alvarez\OneDrive\Documents\GitHub\CalendarManagement\CalendarManagementDataService\obj\Debug\net8.0\CalendarManagementDataService.dll
+C:\Users\Raul Alvarez\OneDrive\Documents\GitHub\CalendarManagement\CalendarManagementDataService\obj\Debug\net8.0\refint\CalendarManagementDataService.dll
+C:\Users\Raul Alvarez\OneDrive\Documents\GitHub\CalendarManagement\CalendarManagementDataService\obj\Debug\net8.0\CalendarManagementDataService.pdb
+C:\Users\Raul Alvarez\OneDrive\Documents\GitHub\CalendarManagement\CalendarManagementDataService\obj\Debug\net8.0\ref\CalendarManagementDataService.dll

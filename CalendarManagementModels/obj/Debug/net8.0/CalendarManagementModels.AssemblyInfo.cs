@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalendarManagementModels")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58821a23b7d68db647bde013d5c3bb5c69c65026")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fff34b3c7eb6e065ca30ac5133355b781596afb")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalendarManagementModels")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalendarManagementModels")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

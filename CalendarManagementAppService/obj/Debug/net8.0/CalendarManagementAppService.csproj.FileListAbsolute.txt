@@ -33,3 +33,21 @@ C:\Users\Admin\OneDrive\Documents\ZULUETA\CalendarManagement\CalendarManagementA
 C:\Users\Admin\OneDrive\Documents\ZULUETA\CalendarManagement\CalendarManagementAppService\obj\Debug\net8.0\refint\CalendarManagementAppService.dll
 C:\Users\Admin\OneDrive\Documents\ZULUETA\CalendarManagement\CalendarManagementAppService\obj\Debug\net8.0\CalendarManagementAppService.pdb
 C:\Users\Admin\OneDrive\Documents\ZULUETA\CalendarManagement\CalendarManagementAppService\obj\Debug\net8.0\ref\CalendarManagementAppService.dll
+C:\Users\Raul Alvarez\OneDrive\Documents\GitHub\CalendarManagement\CalendarManagementAppService\bin\Debug\net8.0\CalendarManagementAppService.deps.json
+C:\Users\Raul Alvarez\OneDrive\Documents\GitHub\CalendarManagement\CalendarManagementAppService\bin\Debug\net8.0\CalendarManagementAppService.dll
+C:\Users\Raul Alvarez\OneDrive\Documents\GitHub\CalendarManagement\CalendarManagementAppService\bin\Debug\net8.0\CalendarManagementAppService.pdb
+C:\Users\Raul Alvarez\OneDrive\Documents\GitHub\CalendarManagement\CalendarManagementAppService\bin\Debug\net8.0\CalendarManagementDataService.dll
+C:\Users\Raul Alvarez\OneDrive\Documents\GitHub\CalendarManagement\CalendarManagementAppService\bin\Debug\net8.0\CalendarManagementModels.dll
+C:\Users\Raul Alvarez\OneDrive\Documents\GitHub\CalendarManagement\CalendarManagementAppService\bin\Debug\net8.0\CalendarManagementDataService.pdb
+C:\Users\Raul Alvarez\OneDrive\Documents\GitHub\CalendarManagement\CalendarManagementAppService\bin\Debug\net8.0\CalendarManagementModels.pdb
+C:\Users\Raul Alvarez\OneDrive\Documents\GitHub\CalendarManagement\CalendarManagementAppService\obj\Debug\net8.0\CalendarManagementAppService.csproj.AssemblyReference.cache
+C:\Users\Raul Alvarez\OneDrive\Documents\GitHub\CalendarManagement\CalendarManagementAppService\obj\Debug\net8.0\CalendarManagementAppService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raul Alvarez\OneDrive\Documents\GitHub\CalendarManagement\CalendarManagementAppService\obj\Debug\net8.0\CalendarManagementAppService.AssemblyInfoInputs.cache
+C:\Users\Raul Alvarez\OneDrive\Documents\GitHub\CalendarManagement\CalendarManagementAppService\obj\Debug\net8.0\CalendarManagementAppService.AssemblyInfo.cs
+C:\Users\Raul Alvarez\OneDrive\Documents\GitHub\CalendarManagement\CalendarManagementAppService\obj\Debug\net8.0\CalendarManagementAppService.csproj.CoreCompileInputs.cache
+C:\Users\Raul Alvarez\OneDrive\Documents\GitHub\CalendarManagement\CalendarManagementAppService\obj\Debug\net8.0\CalendarManagementAppService.sourcelink.json
+C:\Users\Raul Alvarez\OneDrive\Documents\GitHub\CalendarManagement\CalendarManagementAppService\obj\Debug\net8.0\Calendar.78132C65.Up2Date
+C:\Users\Raul Alvarez\OneDrive\Documents\GitHub\CalendarManagement\CalendarManagementAppService\obj\Debug\net8.0\CalendarManagementAppService.dll
+C:\Users\Raul Alvarez\OneDrive\Documents\GitHub\CalendarManagement\CalendarManagementAppService\obj\Debug\net8.0\refint\CalendarManagementAppService.dll
+C:\Users\Raul Alvarez\OneDrive\Documents\GitHub\CalendarManagement\CalendarManagementAppService\obj\Debug\net8.0\CalendarManagementAppService.pdb
+C:\Users\Raul Alvarez\OneDrive\Documents\GitHub\CalendarManagement\CalendarManagementAppService\obj\Debug\net8.0\ref\CalendarManagementAppService.dll
