@@ -69,8 +69,8 @@ namespace CalendarManagement
 
                 CalendarEvent cal = new CalendarEvent();
                 cal.EventId = Guid.Parse(reader["EventId"].ToString());
-                cal.Title = reader["Username"].ToString();
-                cal.Date = Convert.ToDateTime(reader["Password"].ToString());
+                cal.Title = reader["Title"].ToString();
+                cal.Date = Convert.ToDateTime(reader["Date"].ToString());
 
                 calendar.Add(cal);
             }
@@ -91,17 +91,66 @@ namespace CalendarManagement
             while (reader.Read())
             {
                 cal.EventId = Guid.Parse(reader["EventId"].ToString());
-                cal.Title = reader["Username"].ToString();
-                cal.Date = Convert.ToDateTime(reader["Password"].ToString());
+                cal.Title = reader["Title"].ToString();
+                cal.Date = Convert.ToDateTime(reader["Date"].ToString());
             }
 
             sqlConnection.Close();
             return cal;
         }
 
+        public void UpdateEvents(CalendarEvent ce)
+        {
+
+            sqlConnection.Open();
+
+            var updateStatement = $"UPDATE TBL1 SET EventId = @EventId, Title = @Title, Date = @Date WHERE EventId = @EventId";
+
+            SqlCommand updateCommand = new SqlCommand(updateStatement, sqlConnection);
+            updateCommand.Parameters.AddWithValue("@EventId", ce.EventId);
+            updateCommand.Parameters.AddWithValue("@Title", ce.Title);
+            updateCommand.Parameters.AddWithValue("@Date", ce.Date);
+
+            updateCommand.ExecuteNonQuery();
+
+            sqlConnection.Close();
+        }
+        public void DeleteEvents(Guid id)
+        {
+            sqlConnection.Open();
+            var updateStatement = $"DELETE FROM TBL1 WHERE EventId = @EventId";
+            SqlCommand updateCommand = new SqlCommand(updateStatement, sqlConnection);
+            updateCommand.Parameters.AddWithValue("@EventId", id);
 
 
-     
-        
+            updateCommand.ExecuteNonQuery();
+
+            sqlConnection.Close();
+        }
+
+        public List<CalendarEvent> SearchEvents(string c) {
+
+            var  events = new List<CalendarEvent>();
+            var selectStatement = "SELECT EventId, Title,Date FROM TBL1 WHERE Title = @Title";
+            SqlCommand selectCommand = new SqlCommand(selectStatement, sqlConnection);
+            selectCommand.Parameters.AddWithValue("@Title",c.ToString());
+            sqlConnection.Open();
+            SqlDataReader reader = selectCommand.ExecuteReader();
+
+            var cal = new CalendarEvent();
+
+            while (reader.Read())
+            {
+                cal.EventId = Guid.Parse(reader["EventId"].ToString());
+                cal.Title = reader["Title"].ToString();
+                cal.Date = Convert.ToDateTime(reader["Date"].ToString());
+                events.Add(cal);
+            }
+
+            sqlConnection.Close();
+            return events;
+
+        }
+
     }
 }

@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Raul Alvarez\\OneDrive\\Documents\\GitHub\\CalendarManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2CE8D73-DDB7-4D08-A1D8-B4F2238D2DBB}|CalendarManagementAppService\\CalendarManagementAppService.csproj|c:\\users\\raul alvarez\\onedrive\\documents\\github\\calendarmanagement\\calendarmanagementappservice\\eventappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2CE8D73-DDB7-4D08-A1D8-B4F2238D2DBB}|CalendarManagementAppService\\CalendarManagementAppService.csproj|solutionrelative:calendarmanagementappservice\\eventappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9787FB2E-5556-4170-8580-3D68C3F3D2AE}|CalendarManagement.csproj|c:\\users\\raul alvarez\\onedrive\\documents\\github\\calendarmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9787FB2E-5556-4170-8580-3D68C3F3D2AE}|CalendarManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{725AAE93-B177-41A2-BE53-CEB3FDAF8FDE}|CalendarManagementDataService\\CalendarManagementDataService.csproj|c:\\users\\raul alvarez\\onedrive\\documents\\github\\calendarmanagement\\calendarmanagementdataservice\\calendardbdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{725AAE93-B177-41A2-BE53-CEB3FDAF8FDE}|CalendarManagementDataService\\CalendarManagementDataService.csproj|solutionrelative:calendarmanagementdataservice\\calendardbdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A500CF2-C2C2-40BF-A82A-FC05D1812F25}|CalendarManagementModels\\CalendarManagementModels.csproj|c:\\users\\raul alvarez\\onedrive\\documents\\github\\calendarmanagement\\calendarmanagementmodels\\calendarevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A500CF2-C2C2-40BF-A82A-FC05D1812F25}|CalendarManagementModels\\CalendarManagementModels.csproj|solutionrelative:calendarmanagementmodels\\calendarevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CE8D73-DDB7-4D08-A1D8-B4F2238D2DBB}|CalendarManagementAppService\\CalendarManagementAppService.csproj|c:\\users\\raul alvarez\\onedrive\\documents\\github\\calendarmanagement\\calendarmanagementappservice\\eventappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CE8D73-DDB7-4D08-A1D8-B4F2238D2DBB}|CalendarManagementAppService\\CalendarManagementAppService.csproj|solutionrelative:calendarmanagementappservice\\eventappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{725AAE93-B177-41A2-BE53-CEB3FDAF8FDE}|CalendarManagementDataService\\CalendarManagementDataService.csproj|c:\\users\\raul alvarez\\onedrive\\documents\\github\\calendarmanagement\\calendarmanagementdataservice\\calendarjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{725AAE93-B177-41A2-BE53-CEB3FDAF8FDE}|CalendarManagementDataService\\CalendarManagementDataService.csproj|solutionrelative:calendarmanagementdataservice\\calendarjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A500CF2-C2C2-40BF-A82A-FC05D1812F25}|CalendarManagementModels\\CalendarManagementModels.csproj|c:\\users\\raul alvarez\\onedrive\\documents\\github\\calendarmanagement\\calendarmanagementmodels\\calendarevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A500CF2-C2C2-40BF-A82A-FC05D1812F25}|CalendarManagementModels\\CalendarManagementModels.csproj|solutionrelative:calendarmanagementmodels\\calendarevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{725AAE93-B177-41A2-BE53-CEB3FDAF8FDE}|CalendarManagementDataService\\CalendarManagementDataService.csproj|c:\\users\\raul alvarez\\onedrive\\documents\\github\\calendarmanagement\\calendarmanagementdataservice\\calendardbdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{725AAE93-B177-41A2-BE53-CEB3FDAF8FDE}|CalendarManagementDataService\\CalendarManagementDataService.csproj|solutionrelative:calendarmanagementdataservice\\calendardbdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{725AAE93-B177-41A2-BE53-CEB3FDAF8FDE}|CalendarManagementDataService\\CalendarManagementDataService.csproj|c:\\users\\raul alvarez\\onedrive\\documents\\github\\calendarmanagement\\calendarmanagementdataservice\\calendardataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{725AAE93-B177-41A2-BE53-CEB3FDAF8FDE}|CalendarManagementDataService\\CalendarManagementDataService.csproj|solutionrelative:calendarmanagementdataservice\\calendardataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{725AAE93-B177-41A2-BE53-CEB3FDAF8FDE}|CalendarManagementDataService\\CalendarManagementDataService.csproj|c:\\users\\raul alvarez\\onedrive\\documents\\github\\calendarmanagement\\calendarmanagementdataservice\\icalendardataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,14 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{725AAE93-B177-41A2-BE53-CEB3FDAF8FDE}|CalendarManagementDataService\\CalendarManagementDataService.csproj|c:\\users\\raul alvarez\\onedrive\\documents\\github\\calendarmanagement\\calendarmanagementdataservice\\calendarmemorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{725AAE93-B177-41A2-BE53-CEB3FDAF8FDE}|CalendarManagementDataService\\CalendarManagementDataService.csproj|solutionrelative:calendarmanagementdataservice\\calendarmemorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9787FB2E-5556-4170-8580-3D68C3F3D2AE}|CalendarManagement.csproj|c:\\users\\raul alvarez\\onedrive\\documents\\github\\calendarmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9787FB2E-5556-4170-8580-3D68C3F3D2AE}|CalendarManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{725AAE93-B177-41A2-BE53-CEB3FDAF8FDE}|CalendarManagementDataService\\CalendarManagementDataService.csproj|c:\\users\\raul alvarez\\onedrive\\documents\\github\\calendarmanagement\\calendarmanagementdataservice\\calendardataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{725AAE93-B177-41A2-BE53-CEB3FDAF8FDE}|CalendarManagementDataService\\CalendarManagementDataService.csproj|solutionrelative:calendarmanagementdataservice\\calendardataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,17 +42,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "CalendarEvent.cs",
               "DocumentMoniker": "C:\\Users\\Raul Alvarez\\OneDrive\\Documents\\GitHub\\CalendarManagement\\CalendarManagementModels\\CalendarEvent.cs",
               "RelativeDocumentMoniker": "CalendarManagementModels\\CalendarEvent.cs",
               "ToolTip": "C:\\Users\\Raul Alvarez\\OneDrive\\Documents\\GitHub\\CalendarManagement\\CalendarManagementModels\\CalendarEvent.cs",
               "RelativeToolTip": "CalendarManagementModels\\CalendarEvent.cs",
-              "ViewState": "AgIAAAAAAACAN6XnAWUSwAcAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-12T14:59:51.694Z",
               "IsPinned": true,
@@ -60,15 +60,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CalendarJson.cs",
-              "DocumentMoniker": "C:\\Users\\Raul Alvarez\\OneDrive\\Documents\\GitHub\\CalendarManagement\\CalendarManagementDataService\\CalendarJson.cs",
-              "RelativeDocumentMoniker": "CalendarManagementDataService\\CalendarJson.cs",
-              "ToolTip": "C:\\Users\\Raul Alvarez\\OneDrive\\Documents\\GitHub\\CalendarManagement\\CalendarManagementDataService\\CalendarJson.cs",
-              "RelativeToolTip": "CalendarManagementDataService\\CalendarJson.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "ICalendarDataService.cs",
+              "DocumentMoniker": "C:\\Users\\Raul Alvarez\\OneDrive\\Documents\\GitHub\\CalendarManagement\\CalendarManagementDataService\\ICalendarDataService.cs",
+              "RelativeDocumentMoniker": "CalendarManagementDataService\\ICalendarDataService.cs",
+              "ToolTip": "C:\\Users\\Raul Alvarez\\OneDrive\\Documents\\GitHub\\CalendarManagement\\CalendarManagementDataService\\ICalendarDataService.cs",
+              "RelativeToolTip": "CalendarManagementDataService\\ICalendarDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T02:46:28.268Z",
+              "WhenOpened": "2026-03-21T08:42:16.012Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -77,39 +78,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CalendarDBData.cs",
-              "DocumentMoniker": "C:\\Users\\Raul Alvarez\\OneDrive\\Documents\\GitHub\\CalendarManagement\\CalendarManagementDataService\\CalendarDBData.cs",
-              "RelativeDocumentMoniker": "CalendarManagementDataService\\CalendarDBData.cs",
-              "ToolTip": "C:\\Users\\Raul Alvarez\\OneDrive\\Documents\\GitHub\\CalendarManagement\\CalendarManagementDataService\\CalendarDBData.cs",
-              "RelativeToolTip": "CalendarManagementDataService\\CalendarDBData.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAkwFEAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "CalendarJson.cs",
+              "DocumentMoniker": "C:\\Users\\Raul Alvarez\\OneDrive\\Documents\\GitHub\\CalendarManagement\\CalendarManagementDataService\\CalendarJson.cs",
+              "RelativeDocumentMoniker": "CalendarManagementDataService\\CalendarJson.cs",
+              "ToolTip": "C:\\Users\\Raul Alvarez\\OneDrive\\Documents\\GitHub\\CalendarManagement\\CalendarManagementDataService\\CalendarJson.cs",
+              "RelativeToolTip": "CalendarManagementDataService\\CalendarJson.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAqwFkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-21T08:36:33.907Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ICalendarDataService.cs",
-              "DocumentMoniker": "C:\\Users\\Raul Alvarez\\OneDrive\\Documents\\GitHub\\CalendarManagement\\CalendarManagementDataService\\ICalendarDataService.cs",
-              "RelativeDocumentMoniker": "CalendarManagementDataService\\ICalendarDataService.cs",
-              "ToolTip": "C:\\Users\\Raul Alvarez\\OneDrive\\Documents\\GitHub\\CalendarManagement\\CalendarManagementDataService\\ICalendarDataService.cs",
-              "RelativeToolTip": "CalendarManagementDataService\\ICalendarDataService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-21T08:42:16.012Z",
+              "WhenOpened": "2026-03-28T02:46:28.268Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Raul Alvarez\\OneDrive\\Documents\\GitHub\\CalendarManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Raul Alvarez\\OneDrive\\Documents\\GitHub\\CalendarManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T14:58:39.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "EventAppService.cs",
               "DocumentMoniker": "C:\\Users\\Raul Alvarez\\OneDrive\\Documents\\GitHub\\CalendarManagement\\CalendarManagementAppService\\EventAppService.cs",
               "RelativeDocumentMoniker": "CalendarManagementAppService\\EventAppService.cs",
               "ToolTip": "C:\\Users\\Raul Alvarez\\OneDrive\\Documents\\GitHub\\CalendarManagement\\CalendarManagementAppService\\EventAppService.cs",
               "RelativeToolTip": "CalendarManagementAppService\\EventAppService.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBkAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwEIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-12T15:05:59.167Z",
               "EditorCaption": ""
@@ -120,7 +121,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalendarDBData.cs",
+              "DocumentMoniker": "C:\\Users\\Raul Alvarez\\OneDrive\\Documents\\GitHub\\CalendarManagement\\CalendarManagementDataService\\CalendarDBData.cs",
+              "RelativeDocumentMoniker": "CalendarManagementDataService\\CalendarDBData.cs",
+              "ToolTip": "C:\\Users\\Raul Alvarez\\OneDrive\\Documents\\GitHub\\CalendarManagement\\CalendarManagementDataService\\CalendarDBData.cs",
+              "RelativeToolTip": "CalendarManagementDataService\\CalendarDBData.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAADwv5MAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T08:36:33.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "CalendarDataService.cs",
+              "DocumentMoniker": "C:\\Users\\Raul Alvarez\\OneDrive\\Documents\\GitHub\\CalendarManagement\\CalendarManagementDataService\\CalendarDataService.cs",
+              "RelativeDocumentMoniker": "CalendarManagementDataService\\CalendarDataService.cs",
+              "ToolTip": "C:\\Users\\Raul Alvarez\\OneDrive\\Documents\\GitHub\\CalendarManagement\\CalendarManagementDataService\\CalendarDataService.cs",
+              "RelativeToolTip": "CalendarManagementDataService\\CalendarDataService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T09:08:42.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "CalendarMemoryData.cs",
               "DocumentMoniker": "C:\\Users\\Raul Alvarez\\OneDrive\\Documents\\GitHub\\CalendarManagement\\CalendarManagementDataService\\CalendarMemoryData.cs",
               "RelativeDocumentMoniker": "CalendarManagementDataService\\CalendarMemoryData.cs",
@@ -128,32 +155,7 @@
               "RelativeToolTip": "CalendarManagementDataService\\CalendarMemoryData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T15:02:54.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Raul Alvarez\\OneDrive\\Documents\\GitHub\\CalendarManagement\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Raul Alvarez\\OneDrive\\Documents\\GitHub\\CalendarManagement\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAQwC8AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T14:58:39.995Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CalendarDataService.cs",
-              "DocumentMoniker": "C:\\Users\\Raul Alvarez\\OneDrive\\Documents\\GitHub\\CalendarManagement\\CalendarManagementDataService\\CalendarDataService.cs",
-              "RelativeDocumentMoniker": "CalendarManagementDataService\\CalendarDataService.cs",
-              "ToolTip": "C:\\Users\\Raul Alvarez\\OneDrive\\Documents\\GitHub\\CalendarManagement\\CalendarManagementDataService\\CalendarDataService.cs",
-              "RelativeToolTip": "CalendarManagementDataService\\CalendarDataService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-21T09:08:42.188Z"
+              "WhenOpened": "2026-03-12T15:02:54.936Z"
             },
             {
               "$type": "Bookmark",

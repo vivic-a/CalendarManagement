@@ -10,7 +10,9 @@ namespace CalendarManagementDataService
     public interface ICalendarDataService
     {
         void Add(CalendarEvent calends);
-    
+        void UpdateEvents(CalendarEvent c);
+        void DeleteEvents(Guid id);
+        List<CalendarEvent> SearchEvents(string titlekeyword);
         CalendarEvent? ViewEvent(Guid EventId);
         List<CalendarEvent> GetCalendars();
     }

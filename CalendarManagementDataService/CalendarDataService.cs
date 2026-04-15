@@ -20,7 +20,19 @@ namespace CalendarManagementDataService
         {
             dataservice.Add(calends);
         }
-
+        public void UpdateEvents(CalendarEvent c)
+        {
+            dataservice.UpdateEvents(c);
+        }
+        public void DeleteEvents(Guid id)
+        {
+            dataservice.DeleteEvents(id);
+        }
+        public List<CalendarEvent> SearchEvents(string titlekeyword)
+        {
+            return dataservice.SearchEvents(titlekeyword);
+        }
+     
         public List<CalendarEvent> GetCalendars()
         {
             return dataservice.GetCalendars();

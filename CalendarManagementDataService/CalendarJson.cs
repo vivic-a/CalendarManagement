@@ -66,5 +66,35 @@ namespace CalendarManagementDataService
             return calendar.FirstOrDefault(t => t.EventId == Id);
 
         }
+        public void UpdateEvents(CalendarEvent ce)
+        {
+            RetrieveDataFromJsonFile();
+
+            var existingTask = calendar.FirstOrDefault(x => x.EventId == ce.EventId);
+            if (existingTask != null)
+            {
+                existingTask.Date = ce.Date;
+            }
+            SaveDataToJsonFile();
+        }
+        public void DeleteEvents(Guid id)
+        {
+            RetrieveDataFromJsonFile();
+
+            var existing = calendar.FirstOrDefault(x => x.EventId == id);
+            if (existing != null)
+            {
+                calendar.Remove(existing);
+            }
+            SaveDataToJsonFile();
+        }
+        public List<CalendarEvent> SearchEvents(string c) {
+            string json = File.ReadAllText("calendarj.json");
+
+            var events = JsonSerializer.Deserialize<CalendarEvent[]>(json);
+            var result = events.Where(e=>e.Title.Contains(c,StringComparison.OrdinalIgnoreCase)).ToList();
+            return result;
+
+        }
     }
 }
