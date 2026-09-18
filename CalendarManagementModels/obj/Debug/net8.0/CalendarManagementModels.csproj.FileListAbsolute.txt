@@ -33,3 +33,16 @@ C:\Users\Raul Alvarez\OneDrive\Documents\GitHub\CalendarManagement\CalendarManag
 C:\Users\Raul Alvarez\OneDrive\Documents\GitHub\CalendarManagement\CalendarManagementModels\obj\Debug\net8.0\refint\CalendarManagementModels.dll
 C:\Users\Raul Alvarez\OneDrive\Documents\GitHub\CalendarManagement\CalendarManagementModels\obj\Debug\net8.0\CalendarManagementModels.pdb
 C:\Users\Raul Alvarez\OneDrive\Documents\GitHub\CalendarManagement\CalendarManagementModels\obj\Debug\net8.0\ref\CalendarManagementModels.dll
+C:\Users\Khyran Zarsuela\Documents\CalendarManagement\CalendarManagementModels\bin\Debug\net8.0\CalendarManagementModels.deps.json
+C:\Users\Khyran Zarsuela\Documents\CalendarManagement\CalendarManagementModels\bin\Debug\net8.0\CalendarManagementModels.dll
+C:\Users\Khyran Zarsuela\Documents\CalendarManagement\CalendarManagementModels\bin\Debug\net8.0\CalendarManagementModels.pdb
+C:\Users\Khyran Zarsuela\Documents\CalendarManagement\CalendarManagementModels\obj\Debug\net8.0\CalendarManagementModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khyran Zarsuela\Documents\CalendarManagement\CalendarManagementModels\obj\Debug\net8.0\CalendarManagementModels.AssemblyInfoInputs.cache
+C:\Users\Khyran Zarsuela\Documents\CalendarManagement\CalendarManagementModels\obj\Debug\net8.0\CalendarManagementModels.AssemblyInfo.cs
+C:\Users\Khyran Zarsuela\Documents\CalendarManagement\CalendarManagementModels\obj\Debug\net8.0\CalendarManagementModels.csproj.CoreCompileInputs.cache
+C:\Users\Khyran Zarsuela\Documents\CalendarManagement\CalendarManagementModels\obj\Debug\net8.0\CalendarManagementModels.sourcelink.json
+C:\Users\Khyran Zarsuela\Documents\CalendarManagement\CalendarManagementModels\obj\Debug\net8.0\CalendarManagementModels.dll
+C:\Users\Khyran Zarsuela\Documents\CalendarManagement\CalendarManagementModels\obj\Debug\net8.0\refint\CalendarManagementModels.dll
+C:\Users\Khyran Zarsuela\Documents\CalendarManagement\CalendarManagementModels\obj\Debug\net8.0\CalendarManagementModels.pdb
+C:\Users\Khyran Zarsuela\Documents\CalendarManagement\CalendarManagementModels\obj\Debug\net8.0\ref\CalendarManagementModels.dll
+C:\Users\Khyran Zarsuela\Documents\CalendarManagement\CalendarManagementModels\obj\Debug\net8.0\Calendar.ABC47893.Up2Date

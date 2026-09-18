@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Khyran Zarsuela\\Documents\\CalendarManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9787FB2E-5556-4170-8580-3D68C3F3D2AE}|CalendarManagement.csproj|c:\\users\\khyran zarsuela\\documents\\calendarmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9787FB2E-5556-4170-8580-3D68C3F3D2AE}|CalendarManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9787FB2E-5556-4170-8580-3D68C3F3D2AE}|CalendarManagement.csproj|c:\\users\\khyran zarsuela\\documents\\calendarmanagement\\calendarmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9787FB2E-5556-4170-8580-3D68C3F3D2AE}|CalendarManagement.csproj|solutionrelative:calendarmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16ED6964-903D-63FD-A290-41F8A20782C3}|calendar\\calendar.csproj|c:\\users\\khyran zarsuela\\documents\\calendarmanagement\\calendar\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16ED6964-903D-63FD-A290-41F8A20782C3}|calendar\\calendar.csproj|solutionrelative:calendar\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CE8D73-DDB7-4D08-A1D8-B4F2238D2DBB}|CalendarManagementAppService\\CalendarManagementAppService.csproj|c:\\users\\khyran zarsuela\\documents\\calendarmanagement\\calendarmanagementappservice\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CE8D73-DDB7-4D08-A1D8-B4F2238D2DBB}|CalendarManagementAppService\\CalendarManagementAppService.csproj|solutionrelative:calendarmanagementappservice\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CE8D73-DDB7-4D08-A1D8-B4F2238D2DBB}|CalendarManagementAppService\\CalendarManagementAppService.csproj|c:\\users\\khyran zarsuela\\documents\\calendarmanagement\\calendarmanagementappservice\\eventappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CE8D73-DDB7-4D08-A1D8-B4F2238D2DBB}|CalendarManagementAppService\\CalendarManagementAppService.csproj|solutionrelative:calendarmanagementappservice\\eventappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A500CF2-C2C2-40BF-A82A-FC05D1812F25}|CalendarManagementModels\\CalendarManagementModels.csproj|c:\\users\\khyran zarsuela\\documents\\calendarmanagement\\calendarmanagementmodels\\calendarevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A500CF2-C2C2-40BF-A82A-FC05D1812F25}|CalendarManagementModels\\CalendarManagementModels.csproj|solutionrelative:calendarmanagementmodels\\calendarevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CE8D73-DDB7-4D08-A1D8-B4F2238D2DBB}|CalendarManagementAppService\\CalendarManagementAppService.csproj|c:\\users\\khyran zarsuela\\documents\\calendarmanagement\\calendarmanagementappservice\\calendarmanagementappservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C2CE8D73-DDB7-4D08-A1D8-B4F2238D2DBB}|CalendarManagementAppService\\CalendarManagementAppService.csproj|solutionrelative:calendarmanagementappservice\\calendarmanagementappservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16ED6964-903D-63FD-A290-41F8A20782C3}|calendar\\calendar.csproj|c:\\users\\khyran zarsuela\\documents\\calendarmanagement\\calendar\\calendar.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{16ED6964-903D-63FD-A290-41F8A20782C3}|calendar\\calendar.csproj|solutionrelative:calendar\\calendar.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{725AAE93-B177-41A2-BE53-CEB3FDAF8FDE}|CalendarManagementDataService\\CalendarManagementDataService.csproj|c:\\users\\khyran zarsuela\\documents\\calendarmanagement\\calendarmanagementdataservice\\calendardbdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{725AAE93-B177-41A2-BE53-CEB3FDAF8FDE}|CalendarManagementDataService\\CalendarManagementDataService.csproj|solutionrelative:calendarmanagementdataservice\\calendardbdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{725AAE93-B177-41A2-BE53-CEB3FDAF8FDE}|CalendarManagementDataService\\CalendarManagementDataService.csproj|c:\\users\\khyran zarsuela\\documents\\calendarmanagement\\calendarmanagementdataservice\\calendarjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{725AAE93-B177-41A2-BE53-CEB3FDAF8FDE}|CalendarManagementDataService\\CalendarManagementDataService.csproj|solutionrelative:calendarmanagementdataservice\\calendarjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{725AAE93-B177-41A2-BE53-CEB3FDAF8FDE}|CalendarManagementDataService\\CalendarManagementDataService.csproj|c:\\users\\khyran zarsuela\\documents\\calendarmanagement\\calendarmanagementdataservice\\calendardataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{725AAE93-B177-41A2-BE53-CEB3FDAF8FDE}|CalendarManagementDataService\\CalendarManagementDataService.csproj|solutionrelative:calendarmanagementdataservice\\calendardataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{725AAE93-B177-41A2-BE53-CEB3FDAF8FDE}|CalendarManagementDataService\\CalendarManagementDataService.csproj|c:\\users\\khyran zarsuela\\documents\\calendarmanagement\\calendarmanagementdataservice\\icalendardataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{725AAE93-B177-41A2-BE53-CEB3FDAF8FDE}|CalendarManagementDataService\\CalendarManagementDataService.csproj|solutionrelative:calendarmanagementdataservice\\icalendardataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{725AAE93-B177-41A2-BE53-CEB3FDAF8FDE}|CalendarManagementDataService\\CalendarManagementDataService.csproj|c:\\users\\khyran zarsuela\\documents\\calendarmanagement\\calendarmanagementdataservice\\calendarmemorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{725AAE93-B177-41A2-BE53-CEB3FDAF8FDE}|CalendarManagementDataService\\CalendarManagementDataService.csproj|solutionrelative:calendarmanagementdataservice\\calendarmemorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Khyran Zarsuela\\Documents\\CalendarManagement\\calendar\\appsettings.json",
+              "RelativeDocumentMoniker": "calendar\\appsettings.json",
+              "ToolTip": "C:\\Users\\Khyran Zarsuela\\Documents\\CalendarManagement\\calendar\\appsettings.json",
+              "RelativeToolTip": "calendar\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-18T15:02:07.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Khyran Zarsuela\\Documents\\CalendarManagement\\CalendarManagementAppService\\EmailService.cs",
+              "RelativeDocumentMoniker": "CalendarManagementAppService\\EmailService.cs",
+              "ToolTip": "C:\\Users\\Khyran Zarsuela\\Documents\\CalendarManagement\\CalendarManagementAppService\\EmailService.cs",
+              "RelativeToolTip": "CalendarManagementAppService\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T15:50:05.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalendarEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Khyran Zarsuela\\Documents\\CalendarManagement\\CalendarManagementModels\\CalendarEvent.cs",
+              "RelativeDocumentMoniker": "CalendarManagementModels\\CalendarEvent.cs",
+              "ToolTip": "C:\\Users\\Khyran Zarsuela\\Documents\\CalendarManagement\\CalendarManagementModels\\CalendarEvent.cs",
+              "RelativeToolTip": "CalendarManagementModels\\CalendarEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T15:38:41.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Khyran Zarsuela\\Documents\\CalendarManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Khyran Zarsuela\\Documents\\CalendarManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T15:38:41.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventAppService.cs",
+              "DocumentMoniker": "C:\\Users\\Khyran Zarsuela\\Documents\\CalendarManagement\\CalendarManagementAppService\\EventAppService.cs",
+              "RelativeDocumentMoniker": "CalendarManagementAppService\\EventAppService.cs",
+              "ToolTip": "C:\\Users\\Khyran Zarsuela\\Documents\\CalendarManagement\\CalendarManagementAppService\\EventAppService.cs",
+              "RelativeToolTip": "CalendarManagementAppService\\EventAppService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T15:38:41.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalendarManagement.csproj",
+              "DocumentMoniker": "C:\\Users\\Khyran Zarsuela\\Documents\\CalendarManagement\\CalendarManagement.csproj",
+              "RelativeDocumentMoniker": "CalendarManagement.csproj",
+              "ToolTip": "C:\\Users\\Khyran Zarsuela\\Documents\\CalendarManagement\\CalendarManagement.csproj",
+              "RelativeToolTip": "CalendarManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-17T15:50:56.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CalendarManagementAppService",
+              "DocumentMoniker": "C:\\Users\\Khyran Zarsuela\\Documents\\CalendarManagement\\CalendarManagementAppService\\CalendarManagementAppService.csproj",
+              "RelativeDocumentMoniker": "CalendarManagementAppService\\CalendarManagementAppService.csproj",
+              "ToolTip": "C:\\Users\\Khyran Zarsuela\\Documents\\CalendarManagement\\CalendarManagementAppService\\CalendarManagementAppService.csproj",
+              "RelativeToolTip": "CalendarManagementAppService\\CalendarManagementAppService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-18T14:52:35.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "calendar.csproj",
+              "DocumentMoniker": "C:\\Users\\Khyran Zarsuela\\Documents\\CalendarManagement\\calendar\\calendar.csproj",
+              "RelativeDocumentMoniker": "calendar\\calendar.csproj",
+              "ToolTip": "C:\\Users\\Khyran Zarsuela\\Documents\\CalendarManagement\\calendar\\calendar.csproj",
+              "RelativeToolTip": "calendar\\calendar.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-17T15:48:48.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICalendarDataService.cs",
+              "DocumentMoniker": "C:\\Users\\Khyran Zarsuela\\Documents\\CalendarManagement\\CalendarManagementDataService\\ICalendarDataService.cs",
+              "RelativeDocumentMoniker": "CalendarManagementDataService\\ICalendarDataService.cs",
+              "ToolTip": "C:\\Users\\Khyran Zarsuela\\Documents\\CalendarManagement\\CalendarManagementDataService\\ICalendarDataService.cs",
+              "RelativeToolTip": "CalendarManagementDataService\\ICalendarDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T15:38:41.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CalendarJson.cs",
+              "DocumentMoniker": "C:\\Users\\Khyran Zarsuela\\Documents\\CalendarManagement\\CalendarManagementDataService\\CalendarJson.cs",
+              "RelativeDocumentMoniker": "CalendarManagementDataService\\CalendarJson.cs",
+              "ToolTip": "C:\\Users\\Khyran Zarsuela\\Documents\\CalendarManagement\\CalendarManagementDataService\\CalendarJson.cs",
+              "RelativeToolTip": "CalendarManagementDataService\\CalendarJson.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAqwFkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T15:38:41.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CalendarDBData.cs",
+              "DocumentMoniker": "C:\\Users\\Khyran Zarsuela\\Documents\\CalendarManagement\\CalendarManagementDataService\\CalendarDBData.cs",
+              "RelativeDocumentMoniker": "CalendarManagementDataService\\CalendarDBData.cs",
+              "ToolTip": "C:\\Users\\Khyran Zarsuela\\Documents\\CalendarManagement\\CalendarManagementDataService\\CalendarDBData.cs",
+              "RelativeToolTip": "CalendarManagementDataService\\CalendarDBData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T15:38:41.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CalendarDataService.cs",
+              "DocumentMoniker": "C:\\Users\\Khyran Zarsuela\\Documents\\CalendarManagement\\CalendarManagementDataService\\CalendarDataService.cs",
+              "RelativeDocumentMoniker": "CalendarManagementDataService\\CalendarDataService.cs",
+              "ToolTip": "C:\\Users\\Khyran Zarsuela\\Documents\\CalendarManagement\\CalendarManagementDataService\\CalendarDataService.cs",
+              "RelativeToolTip": "CalendarManagementDataService\\CalendarDataService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T15:38:41.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CalendarMemoryData.cs",
+              "DocumentMoniker": "C:\\Users\\Khyran Zarsuela\\Documents\\CalendarManagement\\CalendarManagementDataService\\CalendarMemoryData.cs",
+              "RelativeDocumentMoniker": "CalendarManagementDataService\\CalendarMemoryData.cs",
+              "ToolTip": "C:\\Users\\Khyran Zarsuela\\Documents\\CalendarManagement\\CalendarManagementDataService\\CalendarMemoryData.cs",
+              "RelativeToolTip": "CalendarManagementDataService\\CalendarMemoryData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T15:38:41.68Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

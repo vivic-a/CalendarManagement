@@ -1,15 +1,25 @@
-﻿using System;
-using CalendarManagementAppService;
+﻿using CalendarManagementAppService;
 using CalendarManagementModels;
+using Microsoft.Extensions.Configuration;
+using System;
 
 namespace CalendarManagement
 {
     class Program
     {
-        static EventAppService appService = new EventAppService();
+        static EventAppService appService;
 
         static void Main()
         {
+
+     IConfiguration configuration = new ConfigurationBuilder()
+    .SetBasePath(AppDomain.CurrentDomain.BaseDirectory)
+    .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
+    .Build();
+
+            EmailService emailService = new EmailService(configuration);
+
+            appService = new EventAppService(emailService);
             bool running = true;
 
             while (running)

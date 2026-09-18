@@ -11,7 +11,15 @@ namespace CalendarManagementAppService
     {
         CalendarMemoryData eventDataService = new CalendarMemoryData();
            CalendarDataService Calendardataservice = new CalendarDataService(new CalendarDBData());
-        CalendarJson j = new CalendarJson();
+        //CalendarJson j = new CalendarJson();
+
+        private readonly EmailService emailService;
+
+        public EventAppService(EmailService emailService)
+        {
+            this.emailService = emailService;
+        }
+
         public bool AddEvent(string title, DateTime date)
         {
             if (string.IsNullOrWhiteSpace(title))
@@ -24,8 +32,10 @@ namespace CalendarManagementAppService
                 Date = date
             };
               Calendardataservice.Add(newEvent);
-            j.Add(newEvent);
+          //  j.Add(newEvent);
             eventDataService.AddEvent(newEvent);
+            string recipientEmail = "example@gmail.com";
+            emailService.SendEmail(newEvent.Title, recipientEmail);
 
             return true;
         }
@@ -34,7 +44,7 @@ namespace CalendarManagementAppService
         {
            
                 return Calendardataservice.GetCalendars();
-            return j.GetCalendars();
+        //    return j.GetCalendars();
             return eventDataService.GetEvents();
         }
 
@@ -47,7 +57,7 @@ namespace CalendarManagementAppService
             {
                 events.Remove(ev);
                 Calendardataservice.DeleteEvents(id);
-                j.DeleteEvents(id);
+          //      j.DeleteEvents(id);
             }
 
         }

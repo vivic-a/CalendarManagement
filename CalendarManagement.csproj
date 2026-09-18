@@ -28,4 +28,35 @@
     <ProjectReference Include="CalendarManagementModels\CalendarManagementModels.csproj" />
   </ItemGroup>
 
+	<ItemGroup>
+		<Compile Remove="calendar\**" />
+		<EmbeddedResource Remove="calendar\**" />
+		<None Remove="calendar\**" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Content Include="appsettings.Development.json">
+	    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	    <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+	    <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+	  </Content>
+	  <Content Include="appsettings.json">
+	    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	    <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+	    <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+	  </Content>
+	</ItemGroup>
+
+	<ItemGroup>
+		<None Update="appsettings.json">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+	</ItemGroup>
+
+	<ItemGroup>
+		<Compile Remove="calendar\**" />
+		<EmbeddedResource Remove="calendar\**" />
+		<None Remove="calendar\**" />
+	</ItemGroup>
+
 </Project>
